@@ -1,2 +1,2 @@
-Welcome to my GitHub profile! 
-I'm very cool obvs.
+# Welcome to my GitHub profile! 
+## I'm **very** cool obvs.
